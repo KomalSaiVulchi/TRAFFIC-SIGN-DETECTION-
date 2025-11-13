@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Notebooks
+*.ipynb_checkpoints/
+
+# Model artifacts
+*.h5
+*.keras
+*.pkl
+*.pt
+*.onnx
+*.ckpt
+*.tflite
+*.weights
+
+# Datasets and generated runs
+archive/
+YOLOv11/data/
+YOLOv11/runs/
+*/inference_samples/
+CNN_permanent/model/
+
+# Pretrained checkpoints
+YOLOv11/yolov8n.pt
+CNN/traffic_sign_cnn.h5
+MobileNet/traffic_sign_mobilenetv2.h5
+
+# Logs
+*.log

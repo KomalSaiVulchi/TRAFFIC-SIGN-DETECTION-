@@ -1,0 +1,8 @@
+GTSRB Traffic Sign Recognition - Training Summary
+==================================================
+Training time: 2414.0 seconds
+Test accuracy: 0.9871 (98.7%)
+Matthews MCC: 0.9868
+Training samples: 3612
+Test samples: 774
+Model parameters: 14,282,091
